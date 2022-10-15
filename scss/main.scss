@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    user-select: none;
+}
+
+@import './variables/color';
+
+
+
+@import './secciones/nav';
+@import './secciones/index';
+@import './secciones/productos';
+@import './secciones/quienessomos';
+@import './secciones/sucursales';
+@import './secciones/trabajaconnosotros';
+@import './secciones/footer';
+@import './secciones/mediaquerys';
+
